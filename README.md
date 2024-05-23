@@ -19,4 +19,6 @@ An admin dashboard built using React.js to display author records fetched from t
 - **axios**: HTTP client for making API calls.
 - **react-bootstrap**: Library for using Bootstrap components in React.
 - **Bootstrap**: CSS framework for styling the UI.
+![Screenshot 2024-05-23 160444](https://github.com/p00jitha/admin-dashboard/assets/129841150/a28161fe-1b67-4172-9127-d4a9cfa0d285)
+![Screenshot 2024-05-23 160420](https://github.com/p00jitha/admin-dashboard/assets/129841150/f9619e45-99db-4d02-a5a9-9086569a52e2)
 
