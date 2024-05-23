@@ -1,4 +1,4 @@
-# OpenLibrary Dashboard
+# Admin Dashboard
 
 An admin dashboard built using React.js to display author records fetched from the Open Library API. The dashboard supports pagination, sorting, searching by author and CSV download of the current results. Additionally, it includes user authentication for logging into the dashboard.
 
